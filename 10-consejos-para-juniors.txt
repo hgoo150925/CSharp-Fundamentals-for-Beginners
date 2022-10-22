@@ -1,0 +1,25 @@
+Habitos para aprender
+Concentrarme en los Fundamentos (Teoría, entender por qué funciona)
+Aprender Algoritmos y Estructuras de Datos (hacen a los fundamentos - practicar para poder resolverlos)
+Acostumbrarme a pedir ayuda
+Enfocarme en una sola cosa al principio (por ejemplo: aprender c# para luego aprender Unity) (https://www.youtube.com/watch?v=_rLwrCGzTPM)
+Aprender Inglés
+Cultivar la paciencia (equivocarse es parte del juego, no equivocarse es imposible)
+Aprender a Leer código (leer código de otros como hábito)
+Es importante descansar
+Buscar trabajo rápido
+
+Bonus: Es mejor analizar 2 a 3hs y codificar 5 minutos que perder tiempo codificando sin entender lo que debo resolver
+
+Algunas otras cosas aprendidas:
+
+Existen tantas soluciones como programador
+Deduccion/Teoria se debe comprobar si es o no es 
+cada if tiene un tiempo de ejecucion
+Programo las relgas del negocio, que son las reglas que el Cliente quiere que se cumpla
+
+Tu código es tuyo (no hay que copiar y pegar)
+
+La programación es un trabajo colaborativo y hay que aprender a pedir ayuda y ayudar
+Los fundamentos de programacion son iguales solo cambia la sintaxis y los paradigmas
+No puedo responder lo que él código no me dice
