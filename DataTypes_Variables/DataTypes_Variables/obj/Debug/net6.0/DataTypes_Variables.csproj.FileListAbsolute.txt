@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DataTypes_Variables\DataTypes_Variables\bin\Debug\net6.0\DataTypes_Variables.exe
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DataTypes_Variables\DataTypes_Variables\bin\Debug\net6.0\DataTypes_Variables.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DataTypes_Variables\DataTypes_Variables\bin\Debug\net6.0\DataTypes_Variables.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DataTypes_Variables\DataTypes_Variables\bin\Debug\net6.0\DataTypes_Variables.dll
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DataTypes_Variables\DataTypes_Variables\bin\Debug\net6.0\DataTypes_Variables.pdb
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DataTypes_Variables\DataTypes_Variables\obj\Debug\net6.0\DataTypes_Variables.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DataTypes_Variables\DataTypes_Variables\obj\Debug\net6.0\DataTypes_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DataTypes_Variables\DataTypes_Variables\obj\Debug\net6.0\DataTypes_Variables.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DataTypes_Variables\DataTypes_Variables\obj\Debug\net6.0\DataTypes_Variables.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DataTypes_Variables\DataTypes_Variables\obj\Debug\net6.0\DataTypes_Variables.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DataTypes_Variables\DataTypes_Variables\obj\Debug\net6.0\DataTypes_Variables.dll
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DataTypes_Variables\DataTypes_Variables\obj\Debug\net6.0\refint\DataTypes_Variables.dll
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DataTypes_Variables\DataTypes_Variables\obj\Debug\net6.0\DataTypes_Variables.pdb
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DataTypes_Variables\DataTypes_Variables\obj\Debug\net6.0\DataTypes_Variables.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DataTypes_Variables\DataTypes_Variables\obj\Debug\net6.0\ref\DataTypes_Variables.dll
