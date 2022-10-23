@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "The_if_Decision_Statement/1.0.0": {
+        "runtime": {
+          "The_if_Decision_Statement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "The_if_Decision_Statement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
