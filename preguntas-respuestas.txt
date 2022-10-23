@@ -1,0 +1,35 @@
+# Preguntas y respuestas
+
+1. ¿Cuál es la diferencia entre un error de ejecución y uno de compilación?
+La diferencia es que un error en tiempo de ejecución aparece cuando estas ejecutando tu aplicación, 
+un error en tiempo de compilación es detectado por el compilador antes de producir el resultado , 
+siempre es mejor detectar el error en tiempo de compilación ya que puedes corregirlo inmediatamente , 
+por el contrario un error en tiempo de ejecución puede permaneces oculto hasta que las condiciones adecuadas se cumplan , 
+incluso podrías desplegar la solución sin darte cuenta de que el error existe y la persona que encontrará el error será tu cliente y no tú.
+Claro no estoy tomando en cuenta el testeo y otras variables , solo me apego al contexto de la pregunta.
+
+Fuente: https://es.quora.com/Cu%C3%A1l-es-la-diferencia-entre-un-error-de-ejecuci%C3%B3n-y-uno-de-compilaci%C3%B3n
+
+2. ¿Qué es compilar un programa?
+Traducir un lenguaje de alto nivel a lenguaje de la maquina.
+
+En donde
+1. Programa fuente: es el código que escribes en un editor
+
+2. Analizador léxico se encarga de velar que lo escrito en tu código fuente corresponde exactamente al diccionario de palabras del lenguaje
+
+3. Analizador sintáctico se encarga de encarga de comparar que las palabras escritas en tu código fuente estén acorde a las palabras reservadas del lenguaje
+
+4. Analizador semántico se encarga de velar que las lineas que hayas escrito tengan sentido por ejemplo informática mundo primer hola en este debe de tener sentido primer hola mundo en informática
+
+5. Código intermedio este código generalmente es similar al lenguaje ensamblador y este se modifica de acuerdo a la máquina de destino.
+
+6. Optimizador de código trata de mejorar el código para que consuma menos recursos y ofrezca alta velocidad.
+
+7. Generador de código objeto: generalmente genera código ensamblador
+
+Y Por ultimo en se genera el ejecutable
+
+Durante estas fases del proceso de compilación se hace uso de la tabla de símbolos y del manejador de errores.
+
+Fuente: https://es.quora.com/Qu%C3%A9-es-compilar-un-programa
