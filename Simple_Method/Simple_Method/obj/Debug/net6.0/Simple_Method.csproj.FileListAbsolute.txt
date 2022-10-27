@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Simple_Method\Simple_Method\bin\Debug\net6.0\Simple_Method.exe
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Simple_Method\Simple_Method\bin\Debug\net6.0\Simple_Method.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Simple_Method\Simple_Method\bin\Debug\net6.0\Simple_Method.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Simple_Method\Simple_Method\bin\Debug\net6.0\Simple_Method.dll
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Simple_Method\Simple_Method\bin\Debug\net6.0\Simple_Method.pdb
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Simple_Method\Simple_Method\obj\Debug\net6.0\Simple_Method.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Simple_Method\Simple_Method\obj\Debug\net6.0\Simple_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Simple_Method\Simple_Method\obj\Debug\net6.0\Simple_Method.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Simple_Method\Simple_Method\obj\Debug\net6.0\Simple_Method.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Simple_Method\Simple_Method\obj\Debug\net6.0\Simple_Method.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Simple_Method\Simple_Method\obj\Debug\net6.0\Simple_Method.dll
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Simple_Method\Simple_Method\obj\Debug\net6.0\refint\Simple_Method.dll
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Simple_Method\Simple_Method\obj\Debug\net6.0\Simple_Method.pdb
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Simple_Method\Simple_Method\obj\Debug\net6.0\Simple_Method.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Simple_Method\Simple_Method\obj\Debug\net6.0\ref\Simple_Method.dll
