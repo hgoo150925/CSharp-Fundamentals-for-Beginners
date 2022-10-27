@@ -11,7 +11,8 @@
             Console.WriteLine(SumArray(nums));
 
             // Reverse string
-            ReverseString("I live in Buenos Aires");
+            string rs = ReverseString("Olivia");
+            Console.WriteLine(rs);
             
         }
 
@@ -30,15 +31,13 @@
             return sum;
         }
 
-        private static void ReverseString(string message)
+        private static string ReverseString(string message)
         {
             char[] messageArray = message.ToCharArray();
             Array.Reverse(messageArray);
 
-            foreach (char item in messageArray)
-            {
-                Console.Write(item);
-            }          
+            return String.Concat(messageArray);
+                    
         }
     }
 }
