@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Understanding_Arrays\Understanding_Arrays\bin\Debug\net6.0\Understanding_Arrays.exe
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Understanding_Arrays\Understanding_Arrays\bin\Debug\net6.0\Understanding_Arrays.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Understanding_Arrays\Understanding_Arrays\bin\Debug\net6.0\Understanding_Arrays.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Understanding_Arrays\Understanding_Arrays\bin\Debug\net6.0\Understanding_Arrays.dll
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Understanding_Arrays\Understanding_Arrays\bin\Debug\net6.0\Understanding_Arrays.pdb
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Understanding_Arrays\Understanding_Arrays\obj\Debug\net6.0\Understanding_Arrays.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Understanding_Arrays\Understanding_Arrays\obj\Debug\net6.0\Understanding_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Understanding_Arrays\Understanding_Arrays\obj\Debug\net6.0\Understanding_Arrays.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Understanding_Arrays\Understanding_Arrays\obj\Debug\net6.0\Understanding_Arrays.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Understanding_Arrays\Understanding_Arrays\obj\Debug\net6.0\Understanding_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Understanding_Arrays\Understanding_Arrays\obj\Debug\net6.0\Understanding_Arrays.dll
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Understanding_Arrays\Understanding_Arrays\obj\Debug\net6.0\refint\Understanding_Arrays.dll
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Understanding_Arrays\Understanding_Arrays\obj\Debug\net6.0\Understanding_Arrays.pdb
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Understanding_Arrays\Understanding_Arrays\obj\Debug\net6.0\Understanding_Arrays.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Understanding_Arrays\Understanding_Arrays\obj\Debug\net6.0\ref\Understanding_Arrays.dll
