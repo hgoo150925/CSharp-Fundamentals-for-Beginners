@@ -36,8 +36,9 @@
                 Console.WriteLine("Guess the number between 0 and 50");
                 string result = Console.ReadLine();
                 int res = int.Parse(result);
+                guesses++;
 
-                if(res == randomNumber)
+                if (res == randomNumber)
                 {
                     incorrect = false;                    
                 } 
@@ -46,8 +47,7 @@
                     incorrect = true;
                     Console.WriteLine("choose a smaller number");
 
-                }
-                
+                }                
                 else
                 {
                     incorrect = true;
@@ -57,7 +57,8 @@
 
 
             } while (incorrect);
-            Console.WriteLine("Correct!");
+            Console.WriteLine("Correct! It took {0} guesses", guesses);
+            Console.ReadLine();
         }
     }
 }
