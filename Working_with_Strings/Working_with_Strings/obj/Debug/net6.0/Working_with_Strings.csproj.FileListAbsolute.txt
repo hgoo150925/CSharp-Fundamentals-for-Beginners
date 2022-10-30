@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Working_with_Strings\Working_with_Strings\bin\Debug\net6.0\Working_with_Strings.exe
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Working_with_Strings\Working_with_Strings\bin\Debug\net6.0\Working_with_Strings.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Working_with_Strings\Working_with_Strings\bin\Debug\net6.0\Working_with_Strings.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Working_with_Strings\Working_with_Strings\bin\Debug\net6.0\Working_with_Strings.dll
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Working_with_Strings\Working_with_Strings\bin\Debug\net6.0\Working_with_Strings.pdb
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Working_with_Strings\Working_with_Strings\obj\Debug\net6.0\Working_with_Strings.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Working_with_Strings\Working_with_Strings\obj\Debug\net6.0\Working_with_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Working_with_Strings\Working_with_Strings\obj\Debug\net6.0\Working_with_Strings.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Working_with_Strings\Working_with_Strings\obj\Debug\net6.0\Working_with_Strings.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Working_with_Strings\Working_with_Strings\obj\Debug\net6.0\Working_with_Strings.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Working_with_Strings\Working_with_Strings\obj\Debug\net6.0\Working_with_Strings.dll
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Working_with_Strings\Working_with_Strings\obj\Debug\net6.0\refint\Working_with_Strings.dll
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Working_with_Strings\Working_with_Strings\obj\Debug\net6.0\Working_with_Strings.pdb
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Working_with_Strings\Working_with_Strings\obj\Debug\net6.0\Working_with_Strings.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\Working_with_Strings\Working_with_Strings\obj\Debug\net6.0\ref\Working_with_Strings.dll
