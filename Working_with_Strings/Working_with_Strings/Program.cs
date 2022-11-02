@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Working_with_Strings
 {
@@ -20,6 +21,12 @@ namespace Working_with_Strings
 
             string toLower = "Hello San Francisco";
             Console.WriteLine(toLower.ToLower());
+            Console.WriteLine("toLower Length: " + toLower.Length);
+
+            string trim = "                    hello los angeles            ";
+            string trimStr = String.Format("Length before: {0} -- Length after: {1}", trim.Length, trim.Trim().Length);
+            Console.WriteLine(trimStr);
+            //Console.WriteLine("toLower Trim: " + trim.Trim());
 
             string myString1 = String.Format("{0} = {1}", "First", "Second");
             Console.WriteLine(myString1);
@@ -39,7 +46,16 @@ namespace Working_with_Strings
 
             string myNum = "2554092135"; // (255) 409-2135
             Console.WriteLine($"({myNum.Substring(0, 3)}) {myNum.Substring(3, 3)}-{myNum.Substring(6)}");
-            
+
+            // String Builder
+            // https://www.geeksforgeeks.org/stringbuilder-in-c-sharp/
+            StringBuilder s = new StringBuilder();
+            for (int i = 0; i <= 5; i++)
+            {
+                s.Append("-");
+                s.Append(i);
+            }
+            Console.WriteLine(s);
             Console.ReadLine();
         }
 
