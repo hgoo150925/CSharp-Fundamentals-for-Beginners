@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DatesAndTimes\DatesAndTimes\bin\Debug\net6.0\DatesAndTimes.exe
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DatesAndTimes\DatesAndTimes\bin\Debug\net6.0\DatesAndTimes.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DatesAndTimes\DatesAndTimes\bin\Debug\net6.0\DatesAndTimes.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DatesAndTimes\DatesAndTimes\bin\Debug\net6.0\DatesAndTimes.dll
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DatesAndTimes\DatesAndTimes\bin\Debug\net6.0\DatesAndTimes.pdb
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DatesAndTimes\DatesAndTimes\obj\Debug\net6.0\DatesAndTimes.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DatesAndTimes\DatesAndTimes\obj\Debug\net6.0\DatesAndTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DatesAndTimes\DatesAndTimes\obj\Debug\net6.0\DatesAndTimes.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DatesAndTimes\DatesAndTimes\obj\Debug\net6.0\DatesAndTimes.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DatesAndTimes\DatesAndTimes\obj\Debug\net6.0\DatesAndTimes.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DatesAndTimes\DatesAndTimes\obj\Debug\net6.0\DatesAndTimes.dll
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DatesAndTimes\DatesAndTimes\obj\Debug\net6.0\refint\DatesAndTimes.dll
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DatesAndTimes\DatesAndTimes\obj\Debug\net6.0\DatesAndTimes.pdb
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DatesAndTimes\DatesAndTimes\obj\Debug\net6.0\DatesAndTimes.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\CSharp-Fundamentals-for-Beginners\DatesAndTimes\DatesAndTimes\obj\Debug\net6.0\ref\DatesAndTimes.dll
