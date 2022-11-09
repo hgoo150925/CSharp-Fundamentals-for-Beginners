@@ -15,21 +15,30 @@ namespace SimpleClasses
         public string Owner { get; }
         public decimal Balance { get; }
 
+        // La palabra clave private es un modificador de acceso de miembro
+        // Los miembros privados solo son accesibles dentro del cuerpo de la clase o el struct en el que se declaran
+        // También es static, lo que significa que lo comparten todos los objetos BankAccount
+        private static int accountNumberSeed = 1234567890;
+
         // Para crear un objeto de tipo BankAccount, es necesario definir un constructor que asigne esos valores. 
         // Un constructor es un miembro que tiene el mismo nombre que la clase. Se usa para inicializar los objetos de ese tipo de clase
-        /*
+        
         public BankAccount(string name, decimal initialBalance)
         {
             this.Owner= name;
             this.Balance = initialBalance;
+            this.Number = accountNumberSeed.ToString();
+            accountNumberSeed++;
         }
-        */
 
+        // Tambien se puede declarar un constructor de esta forma
+        /*
         public BankAccount(string name, decimal initialBalance)
         {
             Owner = name;
             Balance = initialBalance;
         }
+        */
 
         // Metodos
         public void MakeDeposit(decimal amount, DateTime date, string note)
