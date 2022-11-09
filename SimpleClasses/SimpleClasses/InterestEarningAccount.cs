@@ -4,7 +4,7 @@ namespace SimpleClasses
     public class InterestEarningAccount : BankAccount
     {
         // Constructor
-        public InterestEarningAccount(string name, string initialBalance) : base(name, initialBalance)
+        public InterestEarningAccount(string name, decimal initialBalance) : base(name, initialBalance)
         {
 
         }
