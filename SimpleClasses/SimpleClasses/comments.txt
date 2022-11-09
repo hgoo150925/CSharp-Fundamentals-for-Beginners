@@ -1,0 +1,42 @@
+################################################################################
+Las tres propiedades de la ORIENTACIÓN A OBJETOS son:
+
+ENCAPSULACIÓN: Agrupa datos y códigos en una única clase.
+HERENCIA: Permite la creación de una nueva clase a partir de otra ya existente, de la cual se hereda todo y puede personalizarse 
+añadiendo o modificando propiedades y métodos heredados. Las clases creadas a partir de otras existentes se llaman CLASES DERIVADAS.
+POLIMORFISMO: Gracias a esta propiedad se pueden utilizar diferentes clases de forma intercambiable. 
+
+Otros conceptos asociados al polimorfismo son la SOBRECARGA,  SOBREESCRITURA y la OCULTACIÓN.
+
+###################################################################################
+Para determinar la visibilidad el lenguaje cuenta con las siguientes palabras clave:
+
+public: la clase puede ser utilizada en cualquier proyecto.
+internal: la clase está limitada al proyecto en el cual está definida.
+private: la clase sólo puede usarse en el módulo en la que está definida.
+protected: la clase sólo puede ser utilizada en una subclase. Es decir sólo se puede utilizar protected para una clase declarada en otra clase.
+protected internal: lo mismo que internal + protected.
+abstract: no permite crear instancias de esta clase, sólo sirve para ser heredada como clase base. Suelen tener los métodos definidos pero sin ninguna operatividad con lo que se suele escribir estos métodos en las clases derivadas.
+sealed: cuando una clase es la última de una jerarquía, por lo que no podrá ser utilizada como base de otra clase.
+
+###################################################################################
+Creación de métodos, sobrecarga y sobreescritura.
+
+Son procedimientos o funciones definidos dentro de una CLASE. Los métodos pueden manejar los campos de la clase incluso si son privados.
+
+La sobrecarga es la creación dentro de la clase, de un grupo de métodos que tienen el mismo nombre pero con un número de parámetros distinto y/o bien distintos tipos de datos.
+
+Sabemos que las clases derivadas heredan las propiedades y métodos de su clase base. Se pueden usar sin ninguna modificación, pero sí el método no está adaptado a la nueva clase podemos sobrescribirlo. Para ello utilizamos la palabra reservada override. 
+También es obligatorio que permitir la sobrescritura de mediante el de la palabra reservada virtual. Esto se utiliza para asegurar el polimorfismo entre las clases
+
+###################################################################################
+Métodos de extensión
+
+Los métodos de extensión permiten añadir funcionalidades a una clase ya definida sin tener que modificar el código de esta clase. Se deben respetar las siguientes reglas:
+
+Pueden ser de tipo procedimientos o función. NUNCA propiedad.
+El primer parámetro irá precedido de la palabra this. La palabra clave this hace referencia a la instancia actual de la clase ,pero también se utiliza como modificador del primer parámetro de un método de extensión.
+El tipo del primer parámetro del método determina el tipo extendido por este método.
+En el momento de la ejecución, éste primer parámetro representa la instancia de la clase sobre la cual se llama el método.
+Se deben definir una clase static.
+Ellos mismos deben ser static
