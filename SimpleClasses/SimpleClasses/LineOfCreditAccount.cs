@@ -3,7 +3,9 @@
     // LineOfCreditAccount extiende (hereda) de BankAccount
     public class LineOfCreditAccount : BankAccount
     {
-        public LineOfCreditAccount(string name, decimal initialBalance) : base(name, initialBalance) { }
+        // El constructor LineOfCreditAccount cambia el signo del parámetro creditLimit para que coincida con el significado del parámetro minimumBalance
+        // Que se encuentra en el constructor de BankAccount
+        public LineOfCreditAccount(string name, decimal initialBalance, decimal creditLimit) : base(name, initialBalance, -creditLimit) { }
 
         public override void PerformMonthEndTransactions()
         {
@@ -15,6 +17,7 @@
                 MakeWithdrawal(interest, DateTime.Now, "Charge monthly interest");
             }
         }
+        protected override Transaction? CheckWithdrawalLimit(bool isOverdrawn) => isOverdrawn ? new Transaction(-20, DateTime.Now, "Apply overdraft fee") : default;
     }
 
     

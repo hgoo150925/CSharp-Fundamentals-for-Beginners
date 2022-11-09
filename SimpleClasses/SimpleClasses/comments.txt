@@ -1,3 +1,8 @@
+Una clase es un molde donde vamos a definir cosas, estas cosas son cualquier cosa que existan en la vida
+
+La clase es una idea, un concepto, un molde de cualquier cosa que exista y el objeto es la representación concreta y específica de esa clase
+La clase contiene atributos que son las caracteristicas de la clase y tambien contiene metodos que son las operaciones que realiza la clase
+
 ################################################################################
 Las tres propiedades de la ORIENTACIÓN A OBJETOS son:
 
