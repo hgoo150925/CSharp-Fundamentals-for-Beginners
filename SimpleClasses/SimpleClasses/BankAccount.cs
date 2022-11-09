@@ -53,10 +53,10 @@ namespace SimpleClasses
         public BankAccount(string name, decimal initialBalance)
         {
             Number = accountNumberSeed.ToString();
-    accountNumberSeed++;
+            accountNumberSeed++;
 
-    Owner = name;
-    MakeDeposit(initialBalance, DateTime.Now, "Initial balance");
+            Owner = name;
+            MakeDeposit(initialBalance, DateTime.Now, "Initial balance");
         }
      
 
