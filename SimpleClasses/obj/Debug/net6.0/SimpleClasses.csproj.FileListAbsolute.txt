@@ -3,3 +3,8 @@ C:\Users\a779433\source\repos\CSharp-Fundamentals-for-Beginners\SimpleClasses\ob
 C:\Users\a779433\source\repos\CSharp-Fundamentals-for-Beginners\SimpleClasses\obj\Debug\net6.0\SimpleClasses.AssemblyInfoInputs.cache
 C:\Users\a779433\source\repos\CSharp-Fundamentals-for-Beginners\SimpleClasses\obj\Debug\net6.0\SimpleClasses.AssemblyInfo.cs
 C:\Users\a779433\source\repos\CSharp-Fundamentals-for-Beginners\SimpleClasses\obj\Debug\net6.0\SimpleClasses.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\SimpleClasses\obj\Debug\net6.0\SimpleClasses.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\SimpleClasses\obj\Debug\net6.0\SimpleClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\SimpleClasses\obj\Debug\net6.0\SimpleClasses.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\SimpleClasses\obj\Debug\net6.0\SimpleClasses.AssemblyInfo.cs
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\SimpleClasses\obj\Debug\net6.0\SimpleClasses.csproj.CoreCompileInputs.cache

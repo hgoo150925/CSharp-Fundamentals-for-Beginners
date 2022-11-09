@@ -109,5 +109,15 @@ namespace SimpleClasses
 
             return report.ToString();
         }
+
+        // https://learn.microsoft.com/es-es/dotnet/csharp/language-reference/keywords/virtual
+        // La palabra clave virtual se usa para modificar una declaración de método, propiedad, indizador o evento y permitir que se invalide en una clase derivada
+        // Se usa la palabra clave virtual para declarar un método en la clase base para el que una clase derivada puede proporcionar una implementación diferente.
+        // Un método virtual es un método en el que cualquier clase derivada puede optar por volver a implementar.
+        // La palabra clave virtual especifica que las clases derivadas pueden invalidar el comportamiento.
+        public virtual void PerformMonthEndTransactions()
+        {
+
+        }
     }
 }
