@@ -10,6 +10,9 @@
 
             var account2 = new BankAccount("Smith", 950);
             Console.WriteLine($"Account {account2.Number} was created for {account2.Owner}");
+
+            account.MakeDeposit(500, DateTime.Now, "Friend paid me back");
+            Console.WriteLine(account.Balance);
             Console.ReadLine();
 
 
