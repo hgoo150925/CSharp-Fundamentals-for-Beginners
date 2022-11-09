@@ -104,7 +104,7 @@ namespace SimpleClasses
         }
 
         // El método agregado es protected, lo que significa que solo se puede llamar desde clases derivadas.
-        // Esa declaración impide que otros clientes llamen al método. También es virtual para que las clases derivadas puedan cambiar el comportamiento.
+        // Esa declaración impide que otros clientes llamen al método. También es virtual (polimorfismo) para que las clases derivadas puedan cambiar el comportamiento.
         // El tipo de valor devuelto es Transaction?. La anotación ? indica que el método puede devolver null
         protected virtual Transaction? CheckWithdrawalLimit(bool isOverdrawn)
         {

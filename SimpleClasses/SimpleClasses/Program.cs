@@ -33,7 +33,7 @@ Console.WriteLine(lineOfCredit.GetAccountHistory());
 Console.ReadLine();
 static void IntroToClasses()
 {
-    var account = new BankAccount("<name>", 1000);
+    var account = new BankAccount("Jonas", 1000);
     Console.WriteLine($"Account {account.Number} was created for {account.Owner} with {account.Balance} balance.");
 
     account.MakeWithdrawal(500, DateTime.Now, "Rent payment");
