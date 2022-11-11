@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\POO\BankAccount\BankAccount\bin\Debug\net7.0\BankAccount.exe
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\POO\BankAccount\BankAccount\bin\Debug\net7.0\BankAccount.deps.json
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\POO\BankAccount\BankAccount\bin\Debug\net7.0\BankAccount.runtimeconfig.json
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\POO\BankAccount\BankAccount\bin\Debug\net7.0\BankAccount.dll
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\POO\BankAccount\BankAccount\bin\Debug\net7.0\BankAccount.pdb
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\POO\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\POO\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\POO\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\POO\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.AssemblyInfo.cs
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\POO\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\POO\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.dll
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\POO\BankAccount\BankAccount\obj\Debug\net7.0\refint\BankAccount.dll
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\POO\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.pdb
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\POO\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.genruntimeconfig.cache
+C:\Users\user\source\repos\CSharp-Fundamentals-for-Beginners\POO\BankAccount\BankAccount\obj\Debug\net7.0\ref\BankAccount.dll
