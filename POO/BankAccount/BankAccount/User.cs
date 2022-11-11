@@ -18,7 +18,8 @@ public class User
 
     public string ShowData()
     {
-        return $"Name: {Name}";
+        return $"Name: {Name} Email: {Email} Balance: {Balance} RegisterDate: {RegisterDate}";
+
     }
 
 
